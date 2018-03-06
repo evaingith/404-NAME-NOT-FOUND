@@ -1,0 +1,12 @@
+name: 404-NAME-NOT-FOUND
+title: 404-NAME-NOT-FOUND
+username:
+account: evainshanshan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 293185
+bundleId: 1252771
+url: https://evainshanshan.shinyapps.io/404-NAME-NOT-FOUND/
+when: 1520238786.61019
+asMultiple: FALSE
+asStatic: FALSE
